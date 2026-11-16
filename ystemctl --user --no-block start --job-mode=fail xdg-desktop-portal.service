@@ -1,0 +1,14 @@
+○ xdg-desktop-portal.service - Portal service
+     Loaded: loaded (]8;;file://black-box/usr/lib/systemd/user/xdg-desktop-portal.service\/usr/lib/systemd/user/xdg-desktop-portal.service]8;;\; static[0;1;32m[0m)
+     Active: inactive (dead)
+
+Jun 21 16:34:10 black-box systemd[1308]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mDependency failed for Portal service.[0m
+Jun 21 16:34:10 black-box systemd[1308]: [0;1;39m[0;1;31m[0;1;39mxdg-desktop-portal.service: Job xdg-desktop-portal.service/start failed with result 'dependency'.[0m
+Jun 21 16:35:03 black-box systemd[1308]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mDependency failed for Portal service.[0m
+Jun 21 16:35:03 black-box systemd[1308]: [0;1;39m[0;1;31m[0;1;39mxdg-desktop-portal.service: Job xdg-desktop-portal.service/start failed with result 'dependency'.[0m
+Jun 21 16:35:03 black-box systemd[1308]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mDependency failed for Portal service.[0m
+Jun 21 16:35:03 black-box systemd[1308]: [0;1;39m[0;1;31m[0;1;39mxdg-desktop-portal.service: Job xdg-desktop-portal.service/start failed with result 'dependency'.[0m
+Jun 21 16:35:06 black-box systemd[1308]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mDependency failed for Portal service.[0m
+Jun 21 16:35:06 black-box systemd[1308]: [0;1;39m[0;1;31m[0;1;39mxdg-desktop-portal.service: Job xdg-desktop-portal.service/start failed with result 'dependency'.[0m
+Jun 21 16:35:06 black-box systemd[1308]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mDependency failed for Portal service.[0m
+Jun 21 16:35:06 black-box systemd[1308]: [0;1;39m[0;1;31m[0;1;39mxdg-desktop-portal.service: Job xdg-desktop-portal.service/start failed with result 'dependency'.[0m
